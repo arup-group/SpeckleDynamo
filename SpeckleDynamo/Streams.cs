@@ -171,7 +171,7 @@ namespace SpeckleDynamo
 
       Client.BaseUrl = RestApi;
       Client.AuthToken = AuthToken;
-      Client.StreamsGetAllAsync("fields=streamId,name").ContinueWith(tsk =>
+      Client.StreamsGetAllLeanAsync().ContinueWith(tsk =>
       {
         DispatchOnUIThread(() =>
         {
