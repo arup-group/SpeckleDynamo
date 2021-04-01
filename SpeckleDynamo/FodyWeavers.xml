@@ -6,8 +6,8 @@
       SpeckleDynamoFunctions
       SpeckleDynamoConverter
       SpeckleDynamoExtension
-      SpecCxPopup
-      SpecCxCore
+      SpecklePopup
+      SpeckleCore
       SpeckleNewtonsoft
       Newtonsoft.Json
       e_sqlite3
