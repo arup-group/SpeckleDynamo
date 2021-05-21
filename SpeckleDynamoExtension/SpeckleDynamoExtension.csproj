@@ -176,7 +176,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="SpeckleCore, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SpecCxCore.1.2.4\lib\netstandard2.0\SpeckleCore.dll</HintPath>
+      <HintPath>..\packages\SpecCxCore.1.2.7\lib\netstandard2.0\SpeckleCore.dll</HintPath>
     </Reference>
     <Reference Include="SpecklePopup, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\SpecCxPopup.1.2.3\lib\net461\SpecklePopup.dll</HintPath>
